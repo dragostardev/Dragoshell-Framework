@@ -4,7 +4,7 @@
 # IF YOU HAVE A PROBLEME TO INSTALL OR DOWNLOAD DRAGOSHELL , come talk to me on discord user : dragostarstudio
 
 
-### by Dragostar unity , Dragostar , Arceus , ic0ver
+### by Dragostar unity , Dragostar , insupery , Alton
 ### Dragoshell is a linux exploitation assistance framework made for Pentesters and Hacking Learners
 ## It is Mainly aimed for educational purposes , learn Pentesting
 ### It could be more helpful in CTF challenges
